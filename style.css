@@ -6,12 +6,13 @@ body{
     width: 500px;
     margin-left: auto;
     margin-right: auto;
+    border: mediumorchid 1px solid;
 
 }
 
 .img{
     width: 100%px;
-    height: 500px;
+    height: 800px;
     background-image: url(img/lampara.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -28,7 +29,7 @@ body{
 }
 .titulo p{
     font-size:20px ;
-    margin-top: 220px;
+    margin-top: 460px;
 }
 .titulo h1{
     font-size: 50px;
